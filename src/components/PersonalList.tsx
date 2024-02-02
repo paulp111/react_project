@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import './PersonalList.css'; // Importieren der CSS-Datei
+import './PersonalList.css'; 
 import PersonalDataForm from './PersonalDataForm';
 import AcademicDataForm from './AcademicDataForm';
 import ProfessionalDataForm from './ProfessionalDataForm';
